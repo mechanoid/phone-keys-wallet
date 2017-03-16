@@ -1,0 +1,23 @@
+{
+  "name": "phone-key-wallet",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "collect": "bin/collect.js"
+  },
+  "files": [
+    "bin",
+    "config.js",
+    "index.js"
+  ],
+  "author": "Falk Hoppe <falkhoppe81@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "convict": "^2.0.0",
+    "fs-extra": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "standard": "^9.0.1"
+  }
+}
