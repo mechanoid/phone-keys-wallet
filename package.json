@@ -7,8 +7,9 @@
   },
   "files": [
     "bin",
-    "config.js",
-    "index.js"
+    "lib",
+    "LICENSE",
+    "README.md"
   ],
   "author": "Falk Hoppe <falkhoppe81@gmail.com>",
   "license": "Apache-2.0",
