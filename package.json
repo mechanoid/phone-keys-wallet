@@ -1,5 +1,5 @@
 {
-  "name": "phone-key-wallet",
+  "name": "phone-keys-wallet",
   "version": "0.0.1",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
     "index.js"
   ],
   "author": "Falk Hoppe <falkhoppe81@gmail.com>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "convict": "^2.0.0",
     "fs-extra": "^2.1.1"
